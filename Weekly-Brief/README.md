@@ -10,7 +10,7 @@
 
 ## 5.8 - 1 - Anysphere
 
-Cursor 的
+Cursor 的公司，AI 辅助编程。
 
 - https://www.aifun.cc/en/sites/anysphere.html
 - https://www.cursor.com
