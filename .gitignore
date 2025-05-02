@@ -1,4 +1,6 @@
 .DS_store
+Course Management System/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
