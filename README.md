@@ -20,6 +20,10 @@ Entrepreneurial-Finance/
 - [Forbes 2025 AI 50 List](https://www.forbes.com/lists/ai50/)
 - [The World’s 50 Most Innovative Companies of 2025](https://www.fastcompany.com/most-innovative-companies/list)
 
+还有一些国内的平台
+
+-  it 桔子
+
 ### Startups
 
 **5.8 - 1 - Anysphere**
