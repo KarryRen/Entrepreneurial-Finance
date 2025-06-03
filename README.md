@@ -38,5 +38,11 @@ AI + 客服
 - https://www.cnbc.com/2024/10/28/bret-taylors-ai-startup-sierra-valued-at-4point5-billion-in-funding.html
 - https://sierra.ai
 
+**5.22 - 3 - Sakana AI**
+
+AI + Science & Research
+
+
+
 ## Assignments
 
