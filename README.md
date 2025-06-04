@@ -42,6 +42,14 @@ AI + 客服
 
 AI + Science & Research
 
+**5.29 - 4 - LangChain**
+
+AI tools
+
+**6.5 - 5 - Suno**
+
+AI + Music
+
 
 
 ## Assignments
