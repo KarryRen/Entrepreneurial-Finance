@@ -12,11 +12,11 @@ Entrepreneurial Finance（EF ）是一门全新的课程，需要仔细梳理其
 
 ## Lecture 1. New Venture Financing: Considerations and Choice
 
-第一章核心解决两个问题：整个投资的周期是什么？钱从哪儿来？
+这一章讲解一个新 VC 的资金来源。核心关注两个问题，一是投资周期，二是资金来源。
 
-### 1.1 Venture Life Cycle
+投资周期为：pre-seed, seed, start-up, first-round, second-round, mezzanine, birdge, IPO, SSO。资金来源有 12 种。
 
-### 1.2 Sources of New Venture Financing
+本章的核心包括风投整体的周期以及资金核心来源方式。
 
 
 
