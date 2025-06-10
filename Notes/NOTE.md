@@ -1,6 +1,14 @@
 # Note
 
-因为创业金融是一门全新的课程，所以我们必须要理清楚课程的全故事线。
+Entrepreneurial Finance（EF ）是一门全新的课程，需要仔细梳理其故事线。这门课核心讲述的是如何以 Venture Capital（VC）的角度，衡量一家初创公司的价值并进行合理的投资规划，包括投资方式和退出思路。
+
+## Lecture 0. Course Introduction
+
+这一章的本质是讲述为什么要学习 EF，核心围绕着如何通过 VC 投资创业者使其生存并创造价值展开。理解 Strategic planning, staging, valuation, deal structure, risk and diversification, choice of financing, and exit decision 等各种阶段的选择对价值造成的影响。
+
+本章核心内容包括：比较 CF 和 EF，梳理课程大纲。
+
+
 
 ## Lecture 1. New Venture Financing: Considerations and Choice
 
