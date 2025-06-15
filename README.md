@@ -49,8 +49,3 @@ AI tools
 **6.5 - 5 - Suno**
 
 AI + Music
-
-
-
-## Assignments
-
